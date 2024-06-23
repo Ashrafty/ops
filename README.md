@@ -1,18 +1,16 @@
 # ops_vpn
 
-A new Flutter project.
+ops vpn was built using claude sonnet 3.5 i just provied the ui along with a pdf that had the instructions of what to do and the rest was history.
+ops vpn uses openvpn to work
 
-## Getting Started
+This is the simple ui design that i made 
+![Home-Disconnected](https://github.com/Ashrafty/ops-vpn-flutter/assets/40754280/071896f6-2213-4a68-afa5-a2b4a56cae8c)
 
-This project is a starting point for a Flutter application.
+When connected
+![Home-Connected](https://github.com/Ashrafty/ops-vpn-flutter/assets/40754280/511a878f-b170-4cf0-992d-18f3e7dd373d)
 
-A few resources to get you started if this is your first Flutter project:
+Server list
+![Server List](https://github.com/Ashrafty/ops-vpn-flutter/assets/40754280/e5b207ee-829e-4007-8cab-9ce3d934f853)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ops-vpn-flutter
-# ops-vpn-flutter
+contributers are welcomed
