@@ -1,6 +1,7 @@
 {  "MOBILE": [
        "vless://8f9fa082-d760-478e-b6ce-5f1dac31ae40@v2ray.sherdmail.com:35573?type=tcp&path=%2F&headerType=http&security=none#Vles-adnbo49x",
        "vless://0b4c29fd-866f-4c7b-ad53-4f08e1a0156d@xray.sherdmail.com:20767?type=xhttp&path=%2F&host=&mode=auto&security=none#load-oo464bqa",
-       "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWUtOWVycTlxamsiLAogICJhZGQiOiAidjJyYXkuc2hlcmRtYWlsLmNvbSIsCiAgInBvcnQiOiAxNjI2NSwKICAiaWQiOiAiYTZkMGE0ODMtNWI0YS00N2IxLTgzMTYtZDBmYTViZTQ3OGEzIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAieGh0dHAiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiLyIsCiAgImhvc3QiOiAiIiwKICAibW9kZSI6ICJhdXRvIgp9"
+       "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWUtOWVycTlxamsiLAogICJhZGQiOiAidjJyYXkuc2hlcmRtYWlsLmNvbSIsCiAgInBvcnQiOiAxNjI2NSwKICAiaWQiOiAiYTZkMGE0ODMtNWI0YS00N2IxLTgzMTYtZDBmYTViZTQ3OGEzIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAieGh0dHAiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiLyIsCiAgImhvc3QiOiAiIiwKICAibW9kZSI6ICJhdXRvIgp9",
+       "vless://06b2faa9-d9a3-4a74-bf7d-33f307a1f12a@xray.sherdmail.com:43599?type=kcp&headerType=wireguard&seed=6Ea9Z8Aa7l&security=none#mono-hqi4dwk0"
     ]
 }
